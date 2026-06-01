@@ -1,1 +1,1 @@
-# Student-Grade-Average-And-Approval-Checker
+A Python program that allows users to repeatedly enter three grades for a student and calculates the average score. Based on the result, the program determines whether the student is approved or failed. The application continues running until the user chooses to exit, providing a simple example of interactive menu-driven programming.
